@@ -1,4 +1,5 @@
 # EntroBeam
 ## WhitePaper
 
-Please, Refer to [EntroBeam Website](https://www.entrobeam.org/)
+* [EntroBeam WhitePaper V1.0](https://github.com/entroBeam/document/blob/main/whitepaper/EntroBeam%20whitepaper%20ver1.0.pdf)
+
